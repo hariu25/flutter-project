@@ -1,2 +1,16 @@
-# flutter-project
-The provided Flutter code creates a simple application with two main screens: a login screen and a people management screen. The login screen allows users to enter credentials, and upon successful login, it navigates to the people management screen.
+# demo_application
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
